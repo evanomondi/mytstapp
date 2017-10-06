@@ -2,14 +2,14 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
-    id        = "laurels.driver.app"
+    id        = "kartero.driver.app"
     version   = "1.2.1">
-    <name>Laurels Macrotech Delivery App Demo</name>
+    <name>Laurels Delivery App Demo</name>
     <description>
-        Simple, Powerful & Highly Flexible way to manage your company.
+        Kartero Driver App
     </description>
-    <author email="Laurels Macrotech" href="laurelsmacrotech.com">
-        laurelsmacrotech.com
+    <author email="bastikikang@gmail.com" href="http://cordova.io">
+        bastisapp.com
     </author>             
     <content src="index.html" />
                
@@ -37,7 +37,7 @@
     </gap:plugin>
     
     <gap:config-file platform="ios" parent="NSPhotoLibraryUsageDescription" overwrite="true">
-      <string>Laurels Macrotech Delivery App wants to access your Photo Library</string>
+      <string>Kartero wants to access your Photo Library</string>
     </gap:config-file>
     
     <gap:plugin name="cordova-plugin-buildinfo" source="npm" spec="1.1.0"  />	 
