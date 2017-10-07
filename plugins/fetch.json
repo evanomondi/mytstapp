@@ -1,0 +1,12 @@
+{
+    "cordova-plugin-mauron85-background-geolocation": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-mauron85-background-geolocation@2.2.5"
+        },
+        "is_top_level": true,
+        "variables": {
+            "ALWAYS_USAGE_DESCRIPTION": "This app requires background tracking enabled"
+        }
+    }
+}

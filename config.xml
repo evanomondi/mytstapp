@@ -6,10 +6,10 @@
     version   = "1.2.1">
     <name>Laurels Delivery App Demo</name>
     <description>
-        Kartero Driver App
+       Laurels Delivery App Demo
     </description>
     <author email="bastikikang@gmail.com" href="http://cordova.io">
-        bastisapp.com
+        Laurels Macrotech
     </author>             
     <content src="index.html" />
                
